@@ -1,0 +1,9 @@
+2017-12-13 16:17:44, 328[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-13 16:17:44, 333[main][com.kl.socket.MJSocketServer:(77)]-server started ...
+ IP: 127.0.0.1 at PORT: 9898
+2017-12-13 16:19:04, 735[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-13 16:19:04, 740[main][com.kl.socket.MJSocketServer:(77)]-server started ...
+ IP: 127.0.0.1 at PORT: 9898
+2017-12-13 16:37:07, 477[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-13 16:37:07, 482[main][com.kl.socket.MJSocketServer:(77)]-server started ...
+ IP: 127.0.0.1 at PORT: 9898

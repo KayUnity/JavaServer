@@ -1,0 +1,24 @@
+2018-01-15 14:59:54, 816[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2018-01-15 14:59:55, 337[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d] REGISTERED
+2018-01-15 14:59:55, 338[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d] BIND: /127.0.0.1:9000
+2018-01-15 14:59:55, 338[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] ACTIVE
+2018-01-15 15:00:10, 204[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ: [id: 0xbf590092, L:/127.0.0.1:9000 - R:/127.0.0.1:5241]
+2018-01-15 15:00:10, 205[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:00:10, 206[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ: [id: 0xe794c6b4, L:/127.0.0.1:9000 - R:/127.0.0.1:5242]
+2018-01-15 15:00:10, 206[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:00:10, 329[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ: [id: 0x7744448b, L:/127.0.0.1:9000 - R:/127.0.0.1:5243]
+2018-01-15 15:00:10, 329[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc2812c7d, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:08:03, 313[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2018-01-15 15:08:03, 846[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a] REGISTERED
+2018-01-15 15:08:03, 847[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a] BIND: /127.0.0.1:9000
+2018-01-15 15:08:03, 847[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] ACTIVE
+2018-01-15 15:08:15, 380[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ: [id: 0xcbd47afd, L:/127.0.0.1:9000 - R:/127.0.0.1:56107]
+2018-01-15 15:08:15, 383[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:08:15, 384[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ: [id: 0x46cbf243, L:/127.0.0.1:9000 - R:/127.0.0.1:56108]
+2018-01-15 15:08:15, 385[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:08:15, 387[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ: [id: 0x927a2848, L:/127.0.0.1:9000 - R:/127.0.0.1:56109]
+2018-01-15 15:08:15, 388[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:08:15, 389[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ: [id: 0xc08796df, L:/127.0.0.1:9000 - R:/127.0.0.1:56110]
+2018-01-15 15:08:15, 390[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ COMPLETE
+2018-01-15 15:08:15, 493[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ: [id: 0x1440b659, L:/127.0.0.1:9000 - R:/127.0.0.1:56148]
+2018-01-15 15:08:15, 493[nioEventLoopGroup-4-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xbd4b721a, L:/127.0.0.1:9000] READ COMPLETE

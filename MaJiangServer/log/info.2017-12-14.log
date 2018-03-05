@@ -1,0 +1,58 @@
+2017-12-14 10:28:36, 085[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 10:31:49, 349[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 10:31:49, 739[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719] REGISTERED
+2017-12-14 10:31:49, 739[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719] BIND: /127.0.0.1:8080
+2017-12-14 10:31:49, 739[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 10:33:36, 863[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719, L:/127.0.0.1:8080] READ: [id: 0x899a686a, L:/127.0.0.1:8080 - R:/127.0.0.1:34000]
+2017-12-14 10:33:36, 863[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 10:33:36, 958[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719, L:/127.0.0.1:8080] READ: [id: 0x130d412e, L:/127.0.0.1:8080 - R:/127.0.0.1:34028]
+2017-12-14 10:33:36, 958[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x49a3c719, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 10:34:38, 356[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 10:34:38, 809[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xaec3ca8d] REGISTERED
+2017-12-14 10:34:38, 809[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xaec3ca8d] BIND: /127.0.0.1:8080
+2017-12-14 10:34:38, 809[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xaec3ca8d, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 10:34:50, 727[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xaec3ca8d, L:/127.0.0.1:8080] READ: [id: 0xd0917767, L:/127.0.0.1:8080 - R:/127.0.0.1:42476]
+2017-12-14 10:34:50, 743[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xaec3ca8d, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 10:42:13, 573[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 10:42:14, 041[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1b3503b] REGISTERED
+2017-12-14 10:42:14, 041[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1b3503b] BIND: /127.0.0.1:8080
+2017-12-14 10:42:14, 041[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1b3503b, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 10:42:49, 972[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1b3503b, L:/127.0.0.1:8080] READ: [id: 0x800bf383, L:/127.0.0.1:8080 - R:/127.0.0.1:32727]
+2017-12-14 10:42:49, 972[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1b3503b, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:00:48, 387[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 11:00:48, 793[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c] REGISTERED
+2017-12-14 11:00:48, 793[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c] BIND: /127.0.0.1:8080
+2017-12-14 11:00:48, 793[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 11:00:53, 925[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ: [id: 0x74d6c0a2, L:/127.0.0.1:8080 - R:/127.0.0.1:27508]
+2017-12-14 11:00:53, 925[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:00:54, 831[nioEventLoopGroup-4-1][MJHttpHandler:(72)]-2017-12-14 11:00:54 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /jiaoyou/advertisement/4.6.9p1/CommunicateGame.bytes OK
+2017-12-14 11:01:44, 479[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ: [id: 0x2792fcc8, L:/127.0.0.1:8080 - R:/127.0.0.1:33275]
+2017-12-14 11:01:44, 479[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:02:00, 705[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ: [id: 0xced42567, L:/127.0.0.1:8080 - R:/127.0.0.1:35150]
+2017-12-14 11:02:00, 705[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xd1e5a30c, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:02:00, 720[nioEventLoopGroup-4-3][MJHttpHandler:(72)]-2017-12-14 11:02:00 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /jiaoyou/advertisement/4.6.9p1/CommunicateGame.bytes OK
+2017-12-14 11:18:28, 033[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 11:18:28, 443[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8] REGISTERED
+2017-12-14 11:18:28, 443[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8] BIND: /127.0.0.1:8080
+2017-12-14 11:18:28, 443[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 11:19:03, 558[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ: [id: 0xcf7ceb48, L:/127.0.0.1:8080 - R:/127.0.0.1:25565]
+2017-12-14 11:19:03, 559[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:19:03, 631[nioEventLoopGroup-5-1][MJHttpHandler:(72)]-2017-12-14 11:19:03 UnityPlayer/2017.2.0f3 (UnityWebRequest/1.0, libcurl/7.51.0-DEV) /jiaoyou/advertisement/4.6.9p1/CommunicateGame.bytes OK
+2017-12-14 11:19:37, 049[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ: [id: 0x35cddc20, L:/127.0.0.1:8080 - R:/127.0.0.1:29456]
+2017-12-14 11:19:37, 050[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:19:37, 063[nioEventLoopGroup-5-2][MJHttpHandler:(72)]-2017-12-14 11:19:37 UnityPlayer/2017.2.0f3 (UnityWebRequest/1.0, libcurl/7.51.0-DEV) /jiaoyou/advertisement/4.6.9p1/CommunicateGame.bytes OK
+2017-12-14 11:20:22, 162[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ: [id: 0x84e6d974, L:/127.0.0.1:8080 - R:/127.0.0.1:34731]
+2017-12-14 11:20:22, 163[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:20:22, 167[nioEventLoopGroup-5-3][MJHttpHandler:(72)]-2017-12-14 11:20:22 UnityPlayer/2017.2.0f3 (UnityWebRequest/1.0, libcurl/7.51.0-DEV) /jiaoyou/advertisement/4.6.9p1/CommunicateGame.bytes OK
+2017-12-14 11:20:55, 890[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ: [id: 0x9bcd4d4f, L:/127.0.0.1:8080 - R:/127.0.0.1:38718]
+2017-12-14 11:20:55, 891[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xc49d59f8, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:23:23, 869[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 11:23:24, 298[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x8b265121] REGISTERED
+2017-12-14 11:23:24, 298[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x8b265121] BIND: /127.0.0.1:8080
+2017-12-14 11:23:24, 299[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x8b265121, L:/127.0.0.1:8080] ACTIVE
+2017-12-14 11:23:36, 482[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x8b265121, L:/127.0.0.1:8080] READ: [id: 0x04c08bc5, L:/127.0.0.1:8080 - R:/127.0.0.1:57538]
+2017-12-14 11:23:36, 484[nioEventLoopGroup-2-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0x8b265121, L:/127.0.0.1:8080] READ COMPLETE
+2017-12-14 11:40:34, 149[main][com.kl.command.MJCommandManager:(87)]-command size: 2
+2017-12-14 11:40:34, 576[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xabc2b746] REGISTERED
+2017-12-14 11:40:34, 576[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xabc2b746] BIND: /127.0.0.1:8080
+2017-12-14 11:40:34, 576[nioEventLoopGroup-3-1][io.netty.handler.logging.LoggingHandler:(101)]-[id: 0xabc2b746, L:/127.0.0.1:8080] ACTIVE
